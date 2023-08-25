@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Suggest an existing open issue in legacy Terraform to fix in OpenTF. 
+Suggest an existing issue in legacy Terraform to fix in OpenTF. 
 
 [LINK_TO_ISSUE]
 
