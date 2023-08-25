@@ -2,7 +2,7 @@
 name: Suggest an open issue from legacy Terraform
 about: Suggest an open issue from legacy Terraform
 title: 'Open existing Terraform Issue [ISSUE_NUM]: [ISSUE_TITLE]'
-labels: ''
+labels: legacy-issue
 assignees: ''
 
 ---
