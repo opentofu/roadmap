@@ -1,6 +1,6 @@
-# OpenTF Roadmap
+# OpenTofu Roadmap
 
-### Now that [OpenTF](https://github.com/opentffoundation/opentf) is available, the project's roadmap has moved there, and will be managed via GitHub [issues](https://github.com/opentffoundation/opentf/issues) and [milestones](https://github.com/opentffoundation/opentf/milestones) on that repo 🚀
+### Now that [OpenTofu](https://github.com/opentofu/opentofu) is available, the project's roadmap has moved there, and will be managed via GitHub [issues](https://github.com/opentofu/opentofu/issues) and [milestones](https://github.com/opentofu/opentofu/milestones) on that repo 🚀
 
 ~This repository is intended to publicly capture the important items on the OpenTF roadmap, including milestones, like public availability of OpenTF, and what they're blocked by.~
 
